@@ -9,6 +9,9 @@ A complete sentiment analysis system for Flipkart product reviews with automatic
 - **Model Registry**: Version control and staging (Development → Staging → Production)
 - **Interactive Dashboard**: MLflow UI for experiment visualization
 - **Batch Processing**: Analyze thousands of reviews simultaneously
+- <img width="509" height="611" alt="image" src="https://github.com/user-attachments/assets/94f42484-36cd-4ccd-ac87-d23ac8d43ac7" />
+- <img width="475" height="647" alt="image" src="https://github.com/user-attachments/assets/d2d27744-2e09-4ee1-8484-e541fd8dab14" />
+<img width="451" height="458" alt="image" src="https://github.com/user-attachments/assets/1a018e03-0834-42fa-94aa-69a3c7fa272b" />
 
 ## 📊 Performance
 - **Best Model Accuracy**: 91.84%
